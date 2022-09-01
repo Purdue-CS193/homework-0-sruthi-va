@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+**I made edits to this page**
+
 [Link](url) and ![Image](src)
 ```
 
